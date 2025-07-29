@@ -47,3 +47,6 @@ after this commit all this:
 
 Push request:
       >> git push 
+
+create a new branch:
+      >> git checkout -b "branch name"
