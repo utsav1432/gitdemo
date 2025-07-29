@@ -1,0 +1,49 @@
+Git >> Version Control
+
+    v1
+    v2
+    v3
+new V4
+
+>> It is Distributed (on cloud)
+>> Collaboration
+>> Tracking Changes
+>> Recovery
+
+Git Download link : "https://git-scm.com/downloads"
+
+GitHub
+BitBucket
+GitLabs
+GitPod
+
+>> For 1st time need to configure github in our system
+Go to file location after this go to left input where location of file is write near of search box now type "cmd" Three 
+after this Command separatly : git config --global user.name "utsav1432"
+                     git config --global user.email "utsavrathod78@gmail.com"
+
+Optional Command : git config --global color.ui auto
+
+Mandatory Commands :
+      >> git init
+      >> git remote add origin https://github.com/utsav1432/gitdemo.git
+
+
+Pull request:
+     >> git pull origin main
+
+Status Check:
+     >> git status
+
+For adding files in github Command separatly 
+Firstly add files:
+     >> git add .
+
+than Check Status:
+     >> git status
+
+after this commit all this:
+      >> git commit -m "Commit Message"
+
+Push request:
+      >> git push 

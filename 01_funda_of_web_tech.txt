@@ -1,0 +1,85 @@
+MERN Stack 
+      >>M: MongoDB (Database)
+      >>E: ExpressJs (Backend)
+      >>R: React (Frontend)
+      >>N: NodeJs  (Backend)
+
+Three Pillars
+      >> HTML (Hyper Markup Language)
+      >> CSS (Cascading Style Sheets)
+      >> JS (JavaScript)
+
+Other Stacks 
+       >> MEAN, MERN & Java Full Stack.
+
+Web Dev
+       >> Bulding/Developers Team
+       >> Testing Team (Manual Testers/ Automated Testers)
+       >> Hosting Team (DevOps Team)
+       >> Maintenance Team/Support Team
+
+SDLC (Software Development Life cycle):
+       >> Waterfall Model
+       >> Agile Model
+       >> Sprial Model
+       >> Interative Model
+       >> Incremental Model
+       >> V Shaped Model
+       >> RAD (Rapid Application Development) Model
+
+URL (Uniform Resource Locator)
+       https://www.instagram.com/
+       https://www.education.utsavAcademy.edu/FullSatck
+
+       https: Protcol
+       utsavAcademy: Server/Domain Name
+       education:  Sub-Domain
+       .edu: TLD (Top Level Domain)
+       FullSatck: Path/ Location
+
+Protcol:
+       >> Set of Rules/instructions
+          http : Hyper Text Transfer Protcol
+          https : Hyper Text Transfer Protcol Secure
+          tcp : Transmission Control Protcol
+          udp : Use Datagram Protcol
+          smtp: Simple Mail Transfer Protcol
+          ftp: File Transfer Protcol
+          ip: Internet Protcol (ipV4 & ipV6)
+
+            >> Client/ Web Page ---- (uName & Upwd) ----> Instagram Server
+            >> SSL (Secure Socket Layer) Certification
+
+Server/Domain Name:
+       >> Unique Identifier
+          >> Eg: Google, Amazon
+
+Sub-Domain Name:
+       >> gMeet
+       >> gMap
+       >> gDrive
+       >> Gmail
+       >> gFiles
+       >> gChorme
+       >> gPay
+
+       >> aws
+       >> amazon shopping
+
+TLD (Top Level Domain):
+      >> Amazon.in (india)
+      >> Amazon.com (commercial)
+      >> Amazon.edu (education)
+      >> Amazon.org (organisation)
+      >> Amazon.uk (united kingdom)
+
+Offline Editors:
+      >> Notepad
+      >> Notepad++
+      >> Subline
+      >> Open Brackets
+      >> VS code
+
+Online Editors:
+       >> codeSpace
+       >> CodeSandbox 
